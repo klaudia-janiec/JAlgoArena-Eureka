@@ -1,4 +1,4 @@
-# JAlgoArena Eureka [![Build Status](https://travis-ci.org/spolnik/JAlgoArena-Eureka.svg?branch=master)](https://travis-ci.org/spolnik/JAlgoArena-Eureka) [![GitHub release](https://img.shields.io/github/release/spolnik/jalgoarena-eureka.svg)]()
+# JAlgoArena Eureka [![Build Status](https://travis-ci.org/klaudia-janiec/JAlgoArena-Eureka.svg?branch=master)](https://travis-ci.org/klaudia-janiec/JAlgoArena-Eureka)
 
 JAlgoArena Eureka is Discovery service for all backend JAlgoArena services. It's created based on Netflix Eureka with usage of Spring Boot and Spring Cloud.
 
@@ -17,8 +17,8 @@ JAlgoArena Eureka is Discovery service for all backend JAlgoArena services. It's
 
 ## Components
 
-- [JAlgoArena](https://github.com/spolnik/JAlgoArena)
-- [JAlgoArena API](https://github.com/spolnik/JAlgoArena-API)
+- [JAlgoArena](https://github.com/klaudia-janiec/JAlgoArena)
+- [JAlgoArena API](https://github.com/klaudia-janiec/JAlgoArena-API)
 
 ## Continuous Delivery
 
@@ -32,7 +32,7 @@ JAlgoArena Eureka is Discovery service for all backend JAlgoArena services. It's
 - Heroku (PaaS)
 - Spring Boot, Spring Cloud
 - Netflix Eureka (discovery service)
-- TravisCI - https://travis-ci.org/spolnik/JAlgoArena-Eureka
+- TravisCI - https://travis-ci.org/klaudia-janiec/JAlgoArena-Eureka
 
 ## Running locally
 
@@ -50,6 +50,6 @@ There are two ways to run it - from sources or from binaries.
 - there is second way to run app with gradle. Instead of running above, you can just run `./gradlew clean bootRun`
 
 ## Notes
-- [Travis Builds](https://travis-ci.org/spolnik)
+- [Travis Builds](https://travis-ci.org/klaudia-janiec)
 
 ![Component Diagram](https://github.com/spolnik/JAlgoArena/raw/master/design/JAlgoArena_Logo.png)
